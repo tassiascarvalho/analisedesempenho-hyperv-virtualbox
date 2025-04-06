@@ -51,11 +51,9 @@ Parâmetros:
 ### 📌 Disco (I/O) – com Fio
 
 Leitura sequencial:
-```bash
 fio --name=seq_read --ioengine=libaio --iodepth=16 --rw=read --bs=1M --direct=1 --size=4G --numjobs=3 --runtime=60 --group_reporting > seq_read_results.txt
 
 Leitura e escrita combinadas:
-```bash
 fio --name=rw_seq --ioengine=libaio --iodepth=16 --rw=readwrite --rwmixread=50 --bs=1M --direct=1 --size=4G --numjobs=3 --runtime=60 --group_reporting > rw_seq_results.txt
 
 📖 Referência
