@@ -29,7 +29,7 @@ Todos os testes foram realizados com a mesma configuração de máquina virtual 
 | Sistema Host          | Windows 11 Education 64 bits       |
 | Hypervisor Nativo     | Microsoft Hyper-V                  |
 | Hypervisor Host-Based | Oracle VirtualBox 7.1.6            |
-| Sistema Convidado     | Ubuntu 24.10 LTS (64 bits)         |
+| Sistema Convidado     | Ubuntu 24.04.2 (64 bits)         |
 | Benchmarks            | PerformanceTest e Fio              |
 
 ---
