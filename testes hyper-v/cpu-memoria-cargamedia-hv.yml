@@ -1,0 +1,66 @@
+BaselineInfo:
+  WebDBID: -1
+  TimeStamp: 20250405114920
+Version:
+  Major: 11
+  Minor: 0
+  Build: 1002
+  SpecialBuildName: ""
+  ptArchitecture: x86_64_linux
+Results:
+  Results Complete: true
+  NumTestProcesses: 8
+  CPU_INTEGER_MATH: 43036.989222222219
+  CPU_FLOATINGPOINT_MATH: 20447.03068209827
+  CPU_PRIME: 76.029270815842523
+  CPU_SORTING: 15661.939958463225
+  CPU_ENCRYPTION: 6647.8387966704795
+  CPU_COMPRESSION: 118342.92808125447
+  CPU_SINGLETHREAD: 3115.8931210230226
+  CPU_PHYSICS: 953.27116768514134
+  CPU_MATRIX_MULT_SSE: 7184.7375983962875
+  CPU_mm: 975.57740119632274
+  CPU_sse: 3265.5538803069253
+  CPU_fma: 8861.7423094157602
+  CPU_avx: 6641.8729473396497
+  CPU_avx512: 9969.7812565228087
+  m_CPU_enc_SHA: 7196340059.3082609
+  m_CPU_enc_AES: 9318960876.2401981
+  m_CPU_enc_ECDSA: 4396991706.6241741
+  ME_ALLOC_S: 2977.0441162046081
+  ME_READ_S: 30469.320117187501
+  ME_READ_L: 13502.7509765625
+  ME_WRITE: 7978.66552734375
+  ME_LARGE: 5832.2222222222217
+  ME_LATENCY: 77.576400862915932
+  ME_THREADED: 36456.346354166664
+  SUMM_CPU: 11745.284981622995
+  SUMM_ME: 1924.4563027638578
+SystemInformation:
+  OSName: Ubuntu 24.04.2 LTS
+  Kernel: 6.11.0-21-generic
+  Device: ""
+  Processor: 11th Gen Intel Core i7-11800H @ 2.30GHz
+  NumSockets: 1
+  Manufacturer: GenuineIntel
+  NumCores: 4
+  NumLogicals: 8
+  CPUFrequency: 2300
+  Memory: 7682
+  MemModuleInfo:
+    iNumMemSticks: 2
+    DIMM 1:
+      manufacturer: Microsoft Corporation
+      modulePartNo: None
+      memType: Unknown
+      size: 3968
+      clkspeed: 0
+      moduleVoltage: 0
+    DIMM 2:
+      manufacturer: Microsoft Corporation
+      modulePartNo: None
+      memType: Unknown
+      size: 4224
+      clkspeed: 0
+      moduleVoltage: 0
+Checksum: EF4BA058C5F49A46021BF6FC9F6D5518D7A4B674
