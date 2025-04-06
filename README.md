@@ -38,7 +38,6 @@ Todos os testes foram realizados com a mesma configuração de máquina virtual 
 
 ### 📌 CPU e Memória – com PerformanceTest
 
-```bash
 ./pt_linux_x64 -r 3 -D 2 -i 3 > cpu_medium.txt
 ./pt_linux_x64 -r 3 -D 4 -i 3 > cpu_muitolongo.txt
 
